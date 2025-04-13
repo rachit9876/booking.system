@@ -108,9 +108,7 @@ xdg-open .
 - Open XAMPP and start Apache and MySQL from the XAMPP control panel.
 - Open **phpMyAdmin** by visiting: `http://localhost/phpmyadmin/`
   
-  ```bash
-  http://localhost/phpmyadmin/
-  ```
+  [Click Here To Direct Start](http://localhost/phpmyadmin/)
 - Create a new database named: `bookmyevent`
 - Run the SQL script below in the SQL tab:
 
