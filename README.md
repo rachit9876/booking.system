@@ -74,13 +74,29 @@ https://github.com/rachit9876/booking.system/archive/refs/heads/main.zip
 #### OR
 #### Option 2 📥 Clone the Repository [Cmd/Terminal]
 
+##### 🖥️ For **Windows** (PowerShell or Git Bash):
+```bash
+git clone https://github.com/rachit9876/booking.system.git
+cd booking.system
+explorer .
+```
+
+##### 🍎 For **macOS**:
 ```bash
 git clone https://github.com/rachit9876/booking.system.git
 cd booking.system
 open .
 ```
 
-#### Copy the project folder into your `htdocs` directory, typically located at:
+##### 🐧 For **Linux** (Ubuntu/GNOME):
+```bash
+git clone https://github.com/rachit9876/booking.system.git
+cd booking.system
+xdg-open .
+```
+
+
+#### Copy the project folder into your `htdocs` directory of xampp, typically located at:
 
 - Windows: `C:\xampp\htdocs`
 - macOS/Linux: `/Applications/XAMPP/htdocs`
