@@ -105,7 +105,7 @@ xdg-open .
 
 ### 3. 🧱 Set Up the Database
 
-- Open XAMPP and start Apache and MySQL from the XAMPP control panel.
+- Open `XAMPP` and start `Apache` and `MySQL` from the XAMPP control panel.
 - Open **phpMyAdmin** by visiting: `http://localhost/phpmyadmin/`
   
   [Click Here To Direct Start](http://localhost/phpmyadmin/)
