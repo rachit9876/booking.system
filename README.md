@@ -77,6 +77,7 @@ https://github.com/rachit9876/booking.system/archive/refs/heads/main.zip
 ```bash
 git clone https://github.com/rachit9876/booking.system.git
 cd booking.system
+open .
 ```
 
 #### Copy the project folder into your `htdocs` directory, typically located at:
