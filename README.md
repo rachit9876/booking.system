@@ -153,7 +153,19 @@ INSERT INTO events (title, date, venue, price, image, seats_available) VALUES
 
 ---
 
-### 4. ⚙️ Configure the Project
+
+### 4. 🌐 Access the App
+
+Open your browser and go to: 
+
+```
+http://localhost/booking.system/
+```
+OR
+[Click Me](http://localhost/booking.system/)
+---
+
+### 5. ⚙️ Configure the Project [Optional]
 
 - Open `php/config.php` and update your MySQL credentials:
 
@@ -172,15 +184,6 @@ if ($conn->connect_error) {
 
 ---
 
-### 5. 🌐 Access the App
-
-Open your browser and go to:
-
-```
-http://localhost/booking.system/
-```
-
----
 
 ## 🙌 Contributing
 
