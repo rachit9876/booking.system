@@ -110,7 +110,7 @@ xdg-open .
   
   [Click Here To Direct Start](http://localhost/phpmyadmin/)
 - Create a new database by running the below 
-- Run the SQL script below in the SQL tab:
+- Run the SQL script below in the `SQL` tab of [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) :
 
 ```sql
 CREATE DATABASE bookmyevent;
