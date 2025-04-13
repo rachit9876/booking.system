@@ -66,7 +66,13 @@ If you don’t already have it:
 
 ---
 
-### 2. 📥 Clone the Repository
+### 2. Download Zip Files [2 Options]
+#### 2.1 📥 Direct Link (Paste in URL box)
+```bash
+https://github.com/rachit9876/booking.system/archive/refs/heads/main.zip
+```
+#### OR
+### 2.2 📥 Clone the Repository [Cmd/Terminal]
 
 ```bash
 git clone https://github.com/rachit9876/booking.system.git
