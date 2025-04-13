@@ -165,5 +165,3 @@ Feel free to fork the repo, suggest improvements, and submit pull requests!
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you'd like a `LICENSE` or `.gitignore` file added too!
