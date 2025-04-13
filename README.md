@@ -3,7 +3,7 @@
 BookMyEvent is a simple PHP and MySQL-based event booking system where users can register, browse upcoming events, and book tickets seamlessly.
 
 ---
-[![Watch the video](https://img.youtube.com/vi/Ucmay1b0Jmg/0.jpg)](https://www.youtube.com/watch?v=Ucmay1b0Jmg)
+![Watch the video](https://www.youtube.com/watch?v=Ucmay1b0Jmg)
 
 ## 🚀 Features
 
