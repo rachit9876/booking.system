@@ -161,8 +161,7 @@ Open your browser and go to:
 ```
 http://localhost/booking.system/
 ```
-OR
-[Click Me](http://localhost/booking.system/)
+- OR [Click Me](http://localhost/booking.system/)
 ---
 
 ### 5. ⚙️ Configure the Project [Optional]
