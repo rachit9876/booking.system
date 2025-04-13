@@ -109,7 +109,7 @@ xdg-open .
 - Open **phpMyAdmin** by visiting: `http://localhost/phpmyadmin/`
   
   [Click Here To Direct Start](http://localhost/phpmyadmin/)
-- Create a new database named: `bookmyevent`
+- Create a new database by running the below 
 - Run the SQL script below in the SQL tab:
 
 ```sql
